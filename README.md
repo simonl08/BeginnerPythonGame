@@ -1,2 +1,2 @@
 # BeginnerPythonGame
-A small game to experiment around with in python
+A simple small game which I did to experiment around with in python with the help of some tutorials online.
